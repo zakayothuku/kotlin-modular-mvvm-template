@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_dashboard_graph"
+    app:startDestination="@id/dashboard"
+    tools:ignore="UnusedNavigation">
+
+    <fragment
+        android:id="@+id/dashboard"
+        android:name="com.schatzdesigns.features.dashboard.DashboardFragment"
+        android:label="@string/feature_dashboard"
+        app:moduleName="@string/feature_dashboard" />
+
+</navigation>

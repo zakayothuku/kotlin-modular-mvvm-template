@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.schatzdesigns.libraries.testutils">
+
+    <application android:theme="@style/Theme.AppCompat">
+
+        <activity android:name=".TestFragmentActivity" />
+
+        <activity android:name=".TestCompatActivity" />
+
+        <activity
+            android:name=".TestCompactActivityNoActionBar"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+
+    </application>
+</manifest>
