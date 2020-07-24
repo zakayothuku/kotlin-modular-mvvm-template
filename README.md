@@ -105,7 +105,7 @@ This is project is a sample, to inspire you and should handle most of the common
 
 -   [iosched](https://github.com/google/iosched) (by [google](https://github.com/google)) - official Android application from google IO 2019.
 -   [plaid](https://github.com/android/plaid) (by [android](https://github.com/android)) - app which provides design news & inspiration, being an example of implementing material design.
--   [kotlin-sample-app](https://github.com/VMadalin/kotlin-sample-app) (by [android](https://github.com/android)) - Android Components Architecture in a Modular Word sample project.
+-   [kotlin-sample-app](https://github.com/VMadalin/kotlin-sample-app) (by [VMadalin](https://github.com/VMadalin)) - Android Components Architecture in a Modular Word sample project.
 -   [architecture-sample](https://github.com/android/architecture-samples) (by [android](https://github.com/android)) - collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 -   [android-clean-architecture-boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) (by [bufferapp](https://github.com/bufferapp)) - an android boilerplate project using clean architecture
 -   [android-clean-architecture-boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) (by [bufferapp](https://github.com/bufferapp)) - an android boilerplate project using clean architecture
