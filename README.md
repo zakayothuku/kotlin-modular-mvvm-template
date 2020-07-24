@@ -101,7 +101,7 @@ Please feel free to post questions, recommendations, ideas, bugs by create [new 
 
 ### Projects
 
-This is project is a sample, to inspire you and should handle most of the common cases, but obviously not all. If you need to take a look at additional resources to find solutions for your project, visit these interesting projects:
+This is project is a template, drawing inspiration from these awesome projects:
 
 -   [iosched](https://github.com/google/iosched) (by [google](https://github.com/google)) - official Android application from google IO 2019.
 -   [plaid](https://github.com/android/plaid) (by [android](https://github.com/android)) - app which provides design news & inspiration, being an example of implementing material design.
